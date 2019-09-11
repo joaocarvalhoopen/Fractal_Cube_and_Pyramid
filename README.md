@@ -4,6 +4,7 @@ Programs that draw in 3D the fractal cube and the fractal pyramid.
 
 ## Description
 Those two programs use VPython for Anaconda Python 3.7 to draw in a simple way in 3D inside a Jupyter notebook the fractal cube [Menger sponge]( https://en.wikipedia.org/wiki/Menger_sponge)  and the fractal pyramid [Sierpiński triangle]( https://en.wikipedia.org/wiki/Sierpi%C5%84ski_triangle). <br>
+Note: The Jupyter notebooks with VPython don’t open correctly inside GitHub, but they work well on the PC with VPython installed for Anaconda. The images are from the local version. <br>
 
 ## Images and code
 [Fractal cube source code](./Fractal_Cube.ipynb) <br>
